@@ -1,7 +1,0 @@
-,,,--2022-03-09 18:24:59--  https://raw.githubusercontent.com/duc-ke/edu_jupyter_pandas/master/dataset/iris_sample.csv
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.111.133, 185.199.110.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.,,,
-HTTP request sent, awaiting response... 200 OK,,
-Length: 683 [text/plain],,,
-Saving to: ‘iris_sample.csv.1’,,,
-     0K                                                       100% 32.6M=0s,,,
