@@ -127,5 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+/kaggle/termproject/model
 /080228-master
